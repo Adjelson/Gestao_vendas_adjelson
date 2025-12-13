@@ -1,6 +1,5 @@
-# SIGI - Sistema de Gestão Integrada
+# Gestao_vendas_adjelson
 
-O **SIGI** é uma solução completa para a gestão de pequenos e médios negócios, centralizando vendas, stock, clientes e relatórios numa interface moderna e intuitiva.
 
 ## 🚀 Funcionalidades Principais
 
