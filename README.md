@@ -84,4 +84,4 @@ Se correu o `seed.js`, pode usar as seguintes credenciais:
 ```
 
 ## ✨ Licença
-Todos os direitos reservados © 2025 SIGI.
+Todos os direitos reservados © 2025 Adjelson.
